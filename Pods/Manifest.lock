@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.1.2)
+  - HanekeSwift (0.10.0)
+  - MCActivityButton (0.2.1)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SwiftyJSON (2.3.2)
+  - UMengAnalytics-NO-IDFA (3.6.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - HanekeSwift
+  - MCActivityButton
+  - SDWebImage
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - UMengAnalytics-NO-IDFA
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 8e618c8baf6323a5079c6549bb38d48357b31630
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  HanekeSwift: d6f5bdf9dbdbbc09d59623b2c1d533e46463dd4d
+  MCActivityButton: 9bc9d05bd5bd72d2f0a386fb611fe5b5bcae5e51
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UMengAnalytics-NO-IDFA: 6d02561a00579b2e37718f204eb81347df5d7b8b
+
+COCOAPODS: 0.39.0

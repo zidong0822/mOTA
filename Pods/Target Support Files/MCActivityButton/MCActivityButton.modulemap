@@ -1,0 +1,6 @@
+framework module MCActivityButton {
+  umbrella header "MCActivityButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
